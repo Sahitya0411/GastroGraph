@@ -1,0 +1,1310 @@
+priority,keyword,category,functional_group
+1,milk,Dairy Liquid,DAIRY_LIQUID
+1,buttermilk,Dairy Liquid,DAIRY_LIQUID
+1,kefir,Dairy Liquid,DAIRY_LIQUID
+1,whey,Dairy Liquid,DAIRY_LIQUID
+1,oat_milk,Dairy Liquid,DAIRY_LIQUID
+1,almond_milk,Dairy Liquid,DAIRY_LIQUID
+1,soy_milk,Dairy Liquid,DAIRY_LIQUID
+1,coconut_milk,Dairy Liquid,DAIRY_LIQUID
+2,half-and-half,Dairy Liquid,DAIRY_LIQUID
+2,half_and_half,Dairy Liquid,DAIRY_LIQUID
+2,heavy_cream,Dairy Liquid,DAIRY_LIQUID
+2,whipping_cream,Dairy Liquid,DAIRY_LIQUID
+2,light_cream,Dairy Liquid,DAIRY_LIQUID
+2,evaporated_milk,Dairy Liquid,DAIRY_LIQUID
+2,condensed_milk,Dairy Liquid,DAIRY_LIQUID
+3,cream_cheese,Dairy Soft,DAIRY_SOFT
+3,sour_cream,Dairy Soft,DAIRY_SOFT
+3,creme_fraiche,Dairy Soft,DAIRY_SOFT
+3,fromage,Dairy Soft,DAIRY_SOFT
+3,quark,Dairy Soft,DAIRY_SOFT
+3,cottage_cheese,Dairy Soft,DAIRY_SOFT
+3,yogurt_cheese,Dairy Soft,DAIRY_SOFT
+3,farmer_cheese,Dairy Soft,DAIRY_SOFT
+4,yogurt,Dairy Soft,DAIRY_SOFT
+4,ricotta,Dairy Soft,DAIRY_SOFT
+4,mascarpone,Dairy Soft,DAIRY_SOFT
+5,cheese,Cheese,CHEESE
+5,cheddar,Cheese,CHEESE
+5,parmesan,Cheese,CHEESE
+5,mozzarella,Cheese,CHEESE
+5,gruyere,Cheese,CHEESE
+5,gouda,Cheese,CHEESE
+5,brie,Cheese,CHEESE
+5,camembert,Cheese,CHEESE
+5,feta,Cheese,CHEESE
+5,romano,Cheese,CHEESE
+5,roquefort,Cheese,CHEESE
+5,blue_cheese,Cheese,CHEESE
+5,goat_cheese,Cheese,CHEESE
+5,pecorino,Cheese,CHEESE
+5,provolone,Cheese,CHEESE
+5,swiss,Cheese,CHEESE
+5,emmental,Cheese,CHEESE
+5,gorgonzola,Cheese,CHEESE
+5,manchego,Cheese,CHEESE
+5,kasseri,Cheese,CHEESE
+6,butter,Solid Fat,SOLID_FAT
+6,margarine,Solid Fat,SOLID_FAT
+6,ghee,Solid Fat,SOLID_FAT
+6,lard,Solid Fat,SOLID_FAT
+6,shortening,Solid Fat,SOLID_FAT
+6,suet,Solid Fat,SOLID_FAT
+6,tallow,Solid Fat,SOLID_FAT
+6,schmaltz,Solid Fat,SOLID_FAT
+6,cocoa_butter,Solid Fat,SOLID_FAT
+6,shea_butter,Solid Fat,SOLID_FAT
+7,olive_oil,Liquid Oil,LIQUID_OIL
+7,canola_oil,Liquid Oil,LIQUID_OIL
+7,vegetable_oil,Liquid Oil,LIQUID_OIL
+7,sunflower_oil,Liquid Oil,LIQUID_OIL
+7,grapeseed_oil,Liquid Oil,LIQUID_OIL
+7,peanut_oil,Liquid Oil,LIQUID_OIL
+7,sesame_oil,Liquid Oil,LIQUID_OIL
+7,corn_oil,Liquid Oil,LIQUID_OIL
+7,coconut_oil,Liquid Oil,LIQUID_OIL
+7,avocado_oil,Liquid Oil,LIQUID_OIL
+7,walnut_oil,Liquid Oil,LIQUID_OIL
+7,flaxseed_oil,Liquid Oil,LIQUID_OIL
+8,oil,Liquid Oil,LIQUID_OIL
+9,sugar,Sweetener,SWEETENER
+9,honey,Sweetener,SWEETENER
+9,maple,Sweetener,SWEETENER
+9,molasses,Sweetener,SWEETENER
+9,agave,Sweetener,SWEETENER
+9,syrup,Sweetener,SWEETENER
+9,stevia,Sweetener,SWEETENER
+9,nectar,Sweetener,SWEETENER
+9,fructose,Sweetener,SWEETENER
+9,sucrose,Sweetener,SWEETENER
+9,treacle,Sweetener,SWEETENER
+9,dextrose,Sweetener,SWEETENER
+9,glucose,Sweetener,SWEETENER
+10,vinegar,Acid/Sour,ACID
+10,cider_vinegar,Acid/Sour,ACID
+10,balsamic,Acid/Sour,ACID
+10,wine_vinegar,Acid/Sour,ACID
+10,tamarind,Acid/Sour,ACID
+10,lemon_juice,Acid/Sour,ACID
+10,lime_juice,Acid/Sour,ACID
+11,basil,Herb,HERB
+11,thyme,Herb,HERB
+11,oregano,Herb,HERB
+11,rosemary,Herb,HERB
+11,parsley,Herb,HERB
+11,cilantro,Herb,HERB
+11,marjoram,Herb,HERB
+11,sage,Herb,HERB
+11,tarragon,Herb,HERB
+11,dill,Herb,HERB
+11,chives,Herb,HERB
+11,mint,Herb,HERB
+11,bay_leaf,Herb,HERB
+11,bay_laurel,Herb,HERB
+11,lovage,Herb,HERB
+11,savory,Herb,HERB
+11,lemon_thyme,Herb,HERB
+11,sweet_marjoram,Herb,HERB
+11,epazote,Herb,HERB
+11,chervil,Herb,HERB
+11,lemon_verbena,Herb,HERB
+11,spearmint,Herb,HERB
+11,peppermint,Herb,HERB
+12,pepper,Spice,SPICE
+12,cumin,Spice,SPICE
+12,coriander,Spice,SPICE
+12,cardamom,Spice,SPICE
+12,turmeric,Spice,SPICE
+12,cinnamon,Spice,SPICE
+12,clove,Spice,SPICE
+12,nutmeg,Spice,SPICE
+12,allspice,Spice,SPICE
+12,star_anise,Spice,SPICE
+12,anise,Spice,SPICE
+12,fennel_seed,Spice,SPICE
+12,mustard_seed,Spice,SPICE
+12,fenugreek,Spice,SPICE
+12,caraway,Spice,SPICE
+12,carom,Spice,SPICE
+12,mace,Spice,SPICE
+12,saffron,Spice,SPICE
+12,paprika,Spice,SPICE
+12,chili,Spice,SPICE
+12,cayenne,Spice,SPICE
+12,ginger,Spice,SPICE
+12,galangal,Spice,SPICE
+12,horseradish,Spice,SPICE
+12,wasabi,Spice,SPICE
+12,sumac,Spice,SPICE
+12,za_atar,Spice,SPICE
+12,ras_el_hanout,Spice,SPICE
+12,five_spice,Spice,SPICE
+12,berbere,Spice,SPICE
+12,baharat,Spice,SPICE
+12,peppercorn,Spice,SPICE
+13,onion,Allium,ALLIUM
+13,garlic,Allium,ALLIUM
+13,shallot,Allium,ALLIUM
+13,leek,Allium,ALLIUM
+13,scallion,Allium,ALLIUM
+13,chive,Allium,ALLIUM
+13,green_onion,Allium,ALLIUM
+13,ramp,Allium,ALLIUM
+14,potato,Root Vegetable,ROOT_VEG
+14,sweet_potato,Root Vegetable,ROOT_VEG
+14,yam,Root Vegetable,ROOT_VEG
+14,carrot,Root Vegetable,ROOT_VEG
+14,parsnip,Root Vegetable,ROOT_VEG
+14,turnip,Root Vegetable,ROOT_VEG
+14,beet,Root Vegetable,ROOT_VEG
+14,celeriac,Root Vegetable,ROOT_VEG
+14,radish,Root Vegetable,ROOT_VEG
+14,rutabaga,Root Vegetable,ROOT_VEG
+14,kohlrabi,Root Vegetable,ROOT_VEG
+15,spinach,Leafy Green,LEAFY_GREEN
+15,kale,Leafy Green,LEAFY_GREEN
+15,chard,Leafy Green,LEAFY_GREEN
+15,arugula,Leafy Green,LEAFY_GREEN
+15,lettuce,Leafy Green,LEAFY_GREEN
+15,endive,Leafy Green,LEAFY_GREEN
+15,radicchio,Leafy Green,LEAFY_GREEN
+15,watercress,Leafy Green,LEAFY_GREEN
+15,purslane,Leafy Green,LEAFY_GREEN
+15,rapini,Leafy Green,LEAFY_GREEN
+15,bok_choy,Leafy Green,LEAFY_GREEN
+15,collard,Leafy Green,LEAFY_GREEN
+16,tomato,Fruiting Veg,FRUITING_VEG
+16,eggplant,Fruiting Veg,FRUITING_VEG
+16,zucchini,Fruiting Veg,FRUITING_VEG
+16,squash,Fruiting Veg,FRUITING_VEG
+16,pumpkin,Fruiting Veg,FRUITING_VEG
+16,cucumber,Fruiting Veg,FRUITING_VEG
+16,okra,Fruiting Veg,FRUITING_VEG
+16,chayote,Fruiting Veg,FRUITING_VEG
+16,avocado,Fruiting Veg,FRUITING_VEG
+17,bell_pepper,Fruiting Veg,FRUITING_VEG
+17,capsicum,Fruiting Veg,FRUITING_VEG
+17,poblano,Fruiting Veg,FRUITING_VEG
+17,jalapeno,Fruiting Veg,FRUITING_VEG
+17,serrano,Fruiting Veg,FRUITING_VEG
+17,habanero,Fruiting Veg,FRUITING_VEG
+18,broccoli,Brassica,BRASSICA
+18,cauliflower,Brassica,BRASSICA
+18,cabbage,Brassica,BRASSICA
+18,brussels_sprout,Brassica,BRASSICA
+18,kohlrabi,Brassica,BRASSICA
+19,lentil,Legume,LEGUME
+19,chickpea,Legume,LEGUME
+19,soybean,Legume,LEGUME
+19,edamame,Legume,LEGUME
+19,fava,Legume,LEGUME
+19,black_eyed_pea,Legume,LEGUME
+19,lima_bean,Legume,LEGUME
+19,adzuki,Legume,LEGUME
+19,pea,Legume,LEGUME
+19,bean,Legume,LEGUME
+20,rice,Whole Grain,WHOLE_GRAIN
+20,pasta,Whole Grain,WHOLE_GRAIN
+20,noodle,Whole Grain,WHOLE_GRAIN
+20,couscous,Whole Grain,WHOLE_GRAIN
+20,quinoa,Whole Grain,WHOLE_GRAIN
+20,barley,Whole Grain,WHOLE_GRAIN
+20,farro,Whole Grain,WHOLE_GRAIN
+20,millet,Whole Grain,WHOLE_GRAIN
+20,teff,Whole Grain,WHOLE_GRAIN
+20,sorghum,Whole Grain,WHOLE_GRAIN
+20,bulgur,Whole Grain,WHOLE_GRAIN
+20,freekeh,Whole Grain,WHOLE_GRAIN
+20,spelt,Whole Grain,WHOLE_GRAIN
+20,wheat_berry,Whole Grain,WHOLE_GRAIN
+20,wild_rice,Whole Grain,WHOLE_GRAIN
+20,polenta,Whole Grain,WHOLE_GRAIN
+20,grits,Whole Grain,WHOLE_GRAIN
+21,flour,Starch/Flour,STARCH_FLOUR
+21,starch,Starch/Flour,STARCH_FLOUR
+21,cornstarch,Starch/Flour,STARCH_FLOUR
+21,arrowroot,Starch/Flour,STARCH_FLOUR
+21,tapioca,Starch/Flour,STARCH_FLOUR
+21,semolina,Starch/Flour,STARCH_FLOUR
+21,breadcrumbs,Starch/Flour,STARCH_FLOUR
+21,cornmeal,Starch/Flour,STARCH_FLOUR
+21,bran,Starch/Flour,STARCH_FLOUR
+22,bread,Bread,BREAD
+22,baguette,Bread,BREAD
+22,tortilla,Bread,BREAD
+22,pita,Bread,BREAD
+22,naan,Bread,BREAD
+22,roll,Bread,BREAD
+22,bun,Bread,BREAD
+22,sourdough,Bread,BREAD
+22,ciabatta,Bread,BREAD
+22,rye_bread,Bread,BREAD
+22,flatbread,Bread,BREAD
+23,almond,Tree Nut,TREE_NUT
+23,walnut,Tree Nut,TREE_NUT
+23,pecan,Tree Nut,TREE_NUT
+23,cashew,Tree Nut,TREE_NUT
+23,pistachio,Tree Nut,TREE_NUT
+23,hazelnut,Tree Nut,TREE_NUT
+23,pine_nut,Tree Nut,TREE_NUT
+23,macadamia,Tree Nut,TREE_NUT
+23,brazil_nut,Tree Nut,TREE_NUT
+23,chestnut,Tree Nut,TREE_NUT
+24,sesame,Seed,SEED
+24,sunflower_seed,Seed,SEED
+24,pumpkin_seed,Seed,SEED
+24,flaxseed,Seed,SEED
+24,chia,Seed,SEED
+24,hemp_seed,Seed,SEED
+24,poppy_seed,Seed,SEED
+25,peanut,Tree Nut,TREE_NUT
+26,mushroom,Mushroom,MUSHROOM
+26,truffle,Mushroom,MUSHROOM
+26,shiitake,Mushroom,MUSHROOM
+26,portobello,Mushroom,MUSHROOM
+26,oyster_mushroom,Mushroom,MUSHROOM
+26,chanterelle,Mushroom,MUSHROOM
+26,morel,Mushroom,MUSHROOM
+26,porcini,Mushroom,MUSHROOM
+26,enoki,Mushroom,MUSHROOM
+27,beef,Meat,MEAT
+27,pork,Meat,MEAT
+27,chicken,Meat,MEAT
+27,turkey,Meat,MEAT
+27,lamb,Meat,MEAT
+27,veal,Meat,MEAT
+27,duck,Meat,MEAT
+27,venison,Meat,MEAT
+27,bison,Meat,MEAT
+27,goat,Meat,MEAT
+27,mutton,Meat,MEAT
+27,steak,Meat,MEAT
+27,bacon,Meat,MEAT
+27,ham,Meat,MEAT
+27,prosciutto,Meat,MEAT
+27,sausage,Meat,MEAT
+27,salami,Meat,MEAT
+27,pepperoni,Meat,MEAT
+27,rabbit,Meat,MEAT
+27,quail,Meat,MEAT
+27,pheasant,Meat,MEAT
+28,fish,Seafood,SEAFOOD
+28,salmon,Seafood,SEAFOOD
+28,tuna,Seafood,SEAFOOD
+28,cod,Seafood,SEAFOOD
+28,halibut,Seafood,SEAFOOD
+28,bass,Seafood,SEAFOOD
+28,trout,Seafood,SEAFOOD
+28,sardine,Seafood,SEAFOOD
+28,anchovy,Seafood,SEAFOOD
+28,herring,Seafood,SEAFOOD
+28,shrimp,Seafood,SEAFOOD
+28,prawn,Seafood,SEAFOOD
+28,crab,Seafood,SEAFOOD
+28,lobster,Seafood,SEAFOOD
+28,scallop,Seafood,SEAFOOD
+28,squid,Seafood,SEAFOOD
+28,octopus,Seafood,SEAFOOD
+28,mussel,Seafood,SEAFOOD
+28,oyster,Seafood,SEAFOOD
+28,clam,Seafood,SEAFOOD
+28,caviar,Seafood,SEAFOOD
+28,catfish,Seafood,SEAFOOD
+28,tilapia,Seafood,SEAFOOD
+28,mahi,Seafood,SEAFOOD
+29,egg,Egg,EGG
+29,yolk,Egg,EGG
+30,tofu,Plant Protein,PLANT_PROTEIN
+30,tempeh,Plant Protein,PLANT_PROTEIN
+30,seitan,Plant Protein,PLANT_PROTEIN
+30,jackfruit,Plant Protein,PLANT_PROTEIN
+31,lemon,Citrus,CITRUS
+31,lime,Citrus,CITRUS
+31,yuzu,Citrus,CITRUS
+31,calamansi,Citrus,CITRUS
+31,kumquat,Citrus,CITRUS
+31,citrus,Citrus,CITRUS
+32,apple,Fruit,FRUIT
+32,pear,Fruit,FRUIT
+32,peach,Fruit,FRUIT
+32,plum,Fruit,FRUIT
+32,cherry,Fruit,FRUIT
+32,apricot,Fruit,FRUIT
+32,grape,Fruit,FRUIT
+32,melon,Fruit,FRUIT
+32,watermelon,Fruit,FRUIT
+32,strawberry,Fruit,FRUIT
+32,blueberry,Fruit,FRUIT
+32,raspberry,Fruit,FRUIT
+32,blackberry,Fruit,FRUIT
+32,mango,Fruit,FRUIT
+32,papaya,Fruit,FRUIT
+32,pineapple,Fruit,FRUIT
+32,kiwi,Fruit,FRUIT
+32,fig,Fruit,FRUIT
+32,date,Fruit,FRUIT
+32,pomegranate,Fruit,FRUIT
+32,passion_fruit,Fruit,FRUIT
+32,guava,Fruit,FRUIT
+32,lychee,Fruit,FRUIT
+32,persimmon,Fruit,FRUIT
+32,quince,Fruit,FRUIT
+32,elderberry,Fruit,FRUIT
+32,gooseberry,Fruit,FRUIT
+32,cranberry,Fruit,FRUIT
+32,banana,Fruit,FRUIT
+32,orange,Fruit,FRUIT
+32,grapefruit,Fruit,FRUIT
+32,tangerine,Fruit,FRUIT
+32,mandarin,Fruit,FRUIT
+32,clementine,Fruit,FRUIT
+32,nectarine,Fruit,FRUIT
+32,raisin,Fruit,FRUIT
+32,prune,Fruit,FRUIT
+32,currant,Fruit,FRUIT
+33,chocolate,Chocolate,CHOCOLATE
+33,cocoa,Chocolate,CHOCOLATE
+33,cacao,Chocolate,CHOCOLATE
+34,coffee,Coffee/Tea,COFFEE_TEA
+34,espresso,Coffee/Tea,COFFEE_TEA
+34,tea,Coffee/Tea,COFFEE_TEA
+34,matcha,Coffee/Tea,COFFEE_TEA
+34,chai,Coffee/Tea,COFFEE_TEA
+35,wine,Alcohol,ALCOHOL
+35,beer,Alcohol,ALCOHOL
+35,whiskey,Alcohol,ALCOHOL
+35,rum,Alcohol,ALCOHOL
+35,brandy,Alcohol,ALCOHOL
+35,vodka,Alcohol,ALCOHOL
+35,gin,Alcohol,ALCOHOL
+35,sake,Alcohol,ALCOHOL
+35,mirin,Alcohol,ALCOHOL
+35,sherry,Alcohol,ALCOHOL
+35,port,Alcohol,ALCOHOL
+35,vermouth,Alcohol,ALCOHOL
+35,bourbon,Alcohol,ALCOHOL
+35,cognac,Alcohol,ALCOHOL
+36,ketchup,Condiment,CONDIMENT
+36,mustard,Condiment,CONDIMENT
+36,mayonnaise,Condiment,CONDIMENT
+36,soy_sauce,Condiment,CONDIMENT
+36,fish_sauce,Condiment,CONDIMENT
+36,worcestershire,Condiment,CONDIMENT
+36,tabasco,Condiment,CONDIMENT
+36,sriracha,Condiment,CONDIMENT
+36,hoisin,Condiment,CONDIMENT
+36,teriyaki,Condiment,CONDIMENT
+36,miso,Condiment,CONDIMENT
+36,tahini,Condiment,CONDIMENT
+36,pesto,Condiment,CONDIMENT
+36,salsa,Condiment,CONDIMENT
+36,chutney,Condiment,CONDIMENT
+36,hummus,Condiment,CONDIMENT
+36,relish,Condiment,CONDIMENT
+37,whisky,Alcohol,ALCOHOL
+37,whiskey,Alcohol,ALCOHOL
+37,bourbon,Alcohol,ALCOHOL
+37,scotch,Alcohol,ALCOHOL
+37,tequila,Alcohol,ALCOHOL
+37,mezcal,Alcohol,ALCOHOL
+37,vodka,Alcohol,ALCOHOL
+37,gin,Alcohol,ALCOHOL
+37,rum,Alcohol,ALCOHOL
+37,brandy,Alcohol,ALCOHOL
+37,cognac,Alcohol,ALCOHOL
+37,calvados,Alcohol,ALCOHOL
+37,armagnac,Alcohol,ALCOHOL
+37,grappa,Alcohol,ALCOHOL
+37,absinthe,Alcohol,ALCOHOL
+37,ouzo,Alcohol,ALCOHOL
+37,pastis,Alcohol,ALCOHOL
+37,pernod,Alcohol,ALCOHOL
+37,aquavit,Alcohol,ALCOHOL
+37,schnapps,Alcohol,ALCOHOL
+37,pisco,Alcohol,ALCOHOL
+37,amaretto,Alcohol,ALCOHOL
+37,kahlua,Alcohol,ALCOHOL
+37,baileys,Alcohol,ALCOHOL
+37,frangelico,Alcohol,ALCOHOL
+37,campari,Alcohol,ALCOHOL
+37,aperol,Alcohol,ALCOHOL
+37,cointreau,Alcohol,ALCOHOL
+37,triple_sec,Alcohol,ALCOHOL
+37,curacao,Alcohol,ALCOHOL
+37,limoncello,Alcohol,ALCOHOL
+37,sambuca,Alcohol,ALCOHOL
+37,advocaat,Alcohol,ALCOHOL
+37,anisette,Alcohol,ALCOHOL
+37,pimms,Alcohol,ALCOHOL
+37,southern_comfort,Alcohol,ALCOHOL
+37,tia_maria,Alcohol,ALCOHOL
+37,st_germain,Alcohol,ALCOHOL
+37,elderflower_liqueur,Alcohol,ALCOHOL
+37,praline_liqueur,Alcohol,ALCOHOL
+37,applejack,Alcohol,ALCOHOL
+37,liqueur,Alcohol,ALCOHOL
+37,liquor,Alcohol,ALCOHOL
+37,spirit,Alcohol,ALCOHOL
+37,lager,Alcohol,ALCOHOL
+37,ale,Alcohol,ALCOHOL
+37,porter,Alcohol,ALCOHOL
+37,stout,Alcohol,ALCOHOL
+37,pale_ale,Alcohol,ALCOHOL
+37,prosecco,Alcohol,ALCOHOL
+37,champagne,Alcohol,ALCOHOL
+37,cava,Alcohol,ALCOHOL
+37,sauterne,Alcohol,ALCOHOL
+37,vin_santo,Alcohol,ALCOHOL
+37,zinfandel,Alcohol,ALCOHOL
+37,verjuice,Alcohol,ALCOHOL
+37,verjus,Alcohol,ALCOHOL
+38,spaghetti,Whole Grain,WHOLE_GRAIN
+38,fettuccine,Whole Grain,WHOLE_GRAIN
+38,linguine,Whole Grain,WHOLE_GRAIN
+38,penne,Whole Grain,WHOLE_GRAIN
+38,rigatoni,Whole Grain,WHOLE_GRAIN
+38,farfalle,Whole Grain,WHOLE_GRAIN
+38,fusilli,Whole Grain,WHOLE_GRAIN
+38,orzo,Whole Grain,WHOLE_GRAIN
+38,lasagna,Whole Grain,WHOLE_GRAIN
+38,lasagne,Whole Grain,WHOLE_GRAIN
+38,tagliatelle,Whole Grain,WHOLE_GRAIN
+38,pappardelle,Whole Grain,WHOLE_GRAIN
+38,bucatini,Whole Grain,WHOLE_GRAIN
+38,perciatelli,Whole Grain,WHOLE_GRAIN
+38,orecchiette,Whole Grain,WHOLE_GRAIN
+38,radiatore,Whole Grain,WHOLE_GRAIN
+38,rotini,Whole Grain,WHOLE_GRAIN
+38,tubetti,Whole Grain,WHOLE_GRAIN
+38,vermicelli,Whole Grain,WHOLE_GRAIN
+38,spaghettini,Whole Grain,WHOLE_GRAIN
+38,pastina,Whole Grain,WHOLE_GRAIN
+38,tortellini,Whole Grain,WHOLE_GRAIN
+38,ravioli,Whole Grain,WHOLE_GRAIN
+38,gnocchi,Whole Grain,WHOLE_GRAIN
+38,pierogies,Whole Grain,WHOLE_GRAIN
+38,wonton,Whole Grain,WHOLE_GRAIN
+38,noodle,Whole Grain,WHOLE_GRAIN
+39,pie_crust,Bakery/Dessert/Snack,BAKERY
+39,pie_shell,Bakery/Dessert/Snack,BAKERY
+39,pastry_shell,Bakery/Dessert/Snack,BAKERY
+39,tart_shell,Bakery/Dessert/Snack,BAKERY
+39,tart_crust,Bakery/Dessert/Snack,BAKERY
+39,pastry_dough,Bakery/Dessert/Snack,BAKERY
+39,puff_pastry,Bakery/Dessert/Snack,BAKERY
+39,phyllo,Bakery/Dessert/Snack,BAKERY
+39,phyilo,Bakery/Dessert/Snack,BAKERY
+39,pastry_crust,Bakery/Dessert/Snack,BAKERY
+39,pie_dough,Bakery/Dessert/Snack,BAKERY
+39,pizza_dough,Bakery/Dessert/Snack,BAKERY
+39,pizza_crust,Bakery/Dessert/Snack,BAKERY
+39,biscuit_dough,Bakery/Dessert/Snack,BAKERY
+39,crescent_dough,Bakery/Dessert/Snack,BAKERY
+39,croissant_dough,Bakery/Dessert/Snack,BAKERY
+39,pate_brisee,Bakery/Dessert/Snack,BAKERY
+39,shortcrust,Bakery/Dessert/Snack,BAKERY
+39,graham_cracker_crust,Bakery/Dessert/Snack,BAKERY
+39,cookie_crust,Bakery/Dessert/Snack,BAKERY
+39,oreo_crust,Bakery/Dessert/Snack,BAKERY
+39,prebaked_crust,Bakery/Dessert/Snack,BAKERY
+39,unbaked_crust,Bakery/Dessert/Snack,BAKERY
+40,cookie,Bakery/Dessert/Snack,BAKERY
+40,cooky,Bakery/Dessert/Snack,BAKERY
+40,cracker,Bakery/Dessert/Snack,BAKERY
+40,biscuit,Bakery/Dessert/Snack,BAKERY
+40,muffin,Bakery/Dessert/Snack,BAKERY
+40,scone,Bakery/Dessert/Snack,BAKERY
+40,brownie,Bakery/Dessert/Snack,BAKERY
+40,cake,Bakery/Dessert/Snack,BAKERY
+40,cupcake,Bakery/Dessert/Snack,BAKERY
+40,donut,Bakery/Dessert/Snack,BAKERY
+40,wafer,Bakery/Dessert/Snack,BAKERY
+40,pretzel,Bakery/Dessert/Snack,BAKERY
+40,chip,Bakery/Dessert/Snack,BAKERY
+40,crisp,Bakery/Dessert/Snack,BAKERY
+40,crouton,Bakery/Dessert/Snack,BAKERY
+40,panettone,Bakery/Dessert/Snack,BAKERY
+40,croissant,Bakery/Dessert/Snack,BAKERY
+40,churro,Bakery/Dessert/Snack,BAKERY
+40,shortbread,Bakery/Dessert/Snack,BAKERY
+40,shortcake,Bakery/Dessert/Snack,BAKERY
+40,poundcake,Bakery/Dessert/Snack,BAKERY
+40,praline,Bakery/Dessert/Snack,BAKERY
+40,marshmallow,Bakery/Dessert/Snack,BAKERY
+40,nonpareil,Bakery/Dessert/Snack,BAKERY
+40,amaretti,Bakery/Dessert/Snack,BAKERY
+40,biscotti,Bakery/Dessert/Snack,BAKERY
+40,meringue,Bakery/Dessert/Snack,BAKERY
+40,profiterole,Bakery/Dessert/Snack,BAKERY
+40,toast,Bakery/Dessert/Snack,BAKERY
+40,ritz,Bakery/Dessert/Snack,BAKERY
+40,saltine,Bakery/Dessert/Snack,BAKERY
+40,triscuit,Bakery/Dessert/Snack,BAKERY
+41,ice_cream,Bakery/Dessert/Snack,BAKERY
+41,gelato,Bakery/Dessert/Snack,BAKERY
+41,sorbet,Bakery/Dessert/Snack,BAKERY
+41,sherbet,Bakery/Dessert/Snack,BAKERY
+41,frozen_yogurt,Bakery/Dessert/Snack,BAKERY
+41,whipped_topping,Bakery/Dessert/Snack,BAKERY
+41,whipped_cream,Bakery/Dessert/Snack,BAKERY
+41,custard,Bakery/Dessert/Snack,BAKERY
+41,pudding,Bakery/Dessert/Snack,BAKERY
+41,frosting,Bakery/Dessert/Snack,BAKERY
+41,glaze,Bakery/Dessert/Snack,BAKERY
+41,ganache,Bakery/Dessert/Snack,BAKERY
+41,toffee,Bakery/Dessert/Snack,BAKERY
+41,caramel,Bakery/Dessert/Snack,BAKERY
+41,butterscotch,Bakery/Dessert/Snack,BAKERY
+41,fudge,Bakery/Dessert/Snack,BAKERY
+41,truffle_chocolate,Bakery/Dessert/Snack,BAKERY
+42,salami,Meat,MEAT
+42,pepperoni,Meat,MEAT
+42,prosciutto,Meat,MEAT
+42,mortadella,Meat,MEAT
+42,pancetta,Meat,MEAT
+42,coppa,Meat,MEAT
+42,capicola,Meat,MEAT
+42,soppressata,Meat,MEAT
+42,sopressata,Meat,MEAT
+42,chorizo,Meat,MEAT
+42,chourico,Meat,MEAT
+42,kielbasa,Meat,MEAT
+42,bratwurst,Meat,MEAT
+42,frankfurter,Meat,MEAT
+42,hot_dog,Meat,MEAT
+42,bologna,Meat,MEAT
+42,spam,Meat,MEAT
+42,pastrami,Meat,MEAT
+42,corned_beef,Meat,MEAT
+42,tasso,Meat,MEAT
+42,speck,Meat,MEAT
+42,guanciale,Meat,MEAT
+42,andouille,Meat,MEAT
+42,lardons,Meat,MEAT
+42,beef_jerky,Meat,MEAT
+42,jerky,Meat,MEAT
+43,roast,Meat,MEAT
+43,rib,Meat,MEAT
+43,sirloin,Meat,MEAT
+43,tenderloin,Meat,MEAT
+43,brisket,Meat,MEAT
+43,chuck,Meat,MEAT
+43,flank,Meat,MEAT
+43,loin,Meat,MEAT
+43,chop,Meat,MEAT
+43,shank,Meat,MEAT
+43,oxtail,Meat,MEAT
+43,tripe,Meat,MEAT
+43,sweetbread,Meat,MEAT
+43,liver,Meat,MEAT
+43,kidney,Meat,MEAT
+43,heart,Meat,MEAT
+43,tongue,Meat,MEAT
+43,pigs_foot,Meat,MEAT
+43,pig,Meat,MEAT
+43,suckling_pig,Meat,MEAT
+43,spareribs,Meat,MEAT
+43,sparerib,Meat,MEAT
+43,pig_trotter,Meat,MEAT
+44,hen,Meat,MEAT
+44,cornish_hen,Meat,MEAT
+44,rock_cornish,Meat,MEAT
+44,pheasant,Meat,MEAT
+44,quail,Meat,MEAT
+44,pigeon,Meat,MEAT
+44,goose,Meat,MEAT
+44,game_bird,Meat,MEAT
+45,snapper,Seafood,SEAFOOD
+45,grouper,Seafood,SEAFOOD
+45,flounder,Seafood,SEAFOOD
+45,sole,Seafood,SEAFOOD
+45,perch,Seafood,SEAFOOD
+45,pike,Seafood,SEAFOOD
+45,walleye,Seafood,SEAFOOD
+45,rockfish,Seafood,SEAFOOD
+45,sea_bass,Seafood,SEAFOOD
+45,striped_bass,Seafood,SEAFOOD
+45,bluefish,Seafood,SEAFOOD
+45,mackerel,Seafood,SEAFOOD
+45,arctic_char,Seafood,SEAFOOD
+45,sturgeon,Seafood,SEAFOOD
+45,swordfish,Seafood,SEAFOOD
+45,monkfish,Seafood,SEAFOOD
+45,skate,Seafood,SEAFOOD
+45,sea_bream,Seafood,SEAFOOD
+45,ahi,Seafood,SEAFOOD
+45,yellowtail,Seafood,SEAFOOD
+45,wahoo,Seafood,SEAFOOD
+45,mahi_mahi,Seafood,SEAFOOD
+45,clam,Seafood,SEAFOOD
+45,quahog,Seafood,SEAFOOD
+45,mussel,Seafood,SEAFOOD
+45,oyster,Seafood,SEAFOOD
+45,scallop,Seafood,SEAFOOD
+45,scampi,Seafood,SEAFOOD
+45,surimi,Seafood,SEAFOOD
+45,tobiko,Seafood,SEAFOOD
+45,tarama,Seafood,SEAFOOD
+46,soymilk,Dairy Soft,DAIRY_SOFT
+46,soy_milk,Dairy Soft,DAIRY_SOFT
+46,oat_milk,Dairy Soft,DAIRY_SOFT
+46,almond_milk,Dairy Soft,DAIRY_SOFT
+46,rice_milk,Dairy Soft,DAIRY_SOFT
+46,coconut_milk,Dairy Soft,DAIRY_SOFT
+46,cashew_milk,Dairy Soft,DAIRY_SOFT
+46,hemp_milk,Dairy Soft,DAIRY_SOFT
+46,yoghurt,Dairy Soft,DAIRY_SOFT
+46,natural_yoghurt,Dairy Soft,DAIRY_SOFT
+46,raita,Dairy Soft,DAIRY_SOFT
+46,panir,Dairy Soft,DAIRY_SOFT
+46,queso_fresco,Dairy Soft,DAIRY_SOFT
+46,queso_blanco,Dairy Soft,DAIRY_SOFT
+46,talleggio,Dairy Soft,DAIRY_SOFT
+46,parmigiano,Dairy Soft,DAIRY_SOFT
+46,halloumi,Dairy Soft,DAIRY_SOFT
+46,labneh,Dairy Soft,DAIRY_SOFT
+46,skyr,Dairy Soft,DAIRY_SOFT
+46,kefir,Dairy Soft,DAIRY_SOFT
+47,nori,Plant/Vegetable,PLANT_VEG
+47,wakame,Plant/Vegetable,PLANT_VEG
+47,kombu,Plant/Vegetable,PLANT_VEG
+47,dulse,Plant/Vegetable,PLANT_VEG
+47,arame,Plant/Vegetable,PLANT_VEG
+47,hijiki,Plant/Vegetable,PLANT_VEG
+47,kelp,Plant/Vegetable,PLANT_VEG
+47,agar,Plant/Vegetable,PLANT_VEG
+47,seaweed,Plant/Vegetable,PLANT_VEG
+48,dal,Legume,LEGUME
+48,dhal,Legume,LEGUME
+48,urad,Legume,LEGUME
+48,toor,Legume,LEGUME
+48,moong,Legume,LEGUME
+48,mung,Legume,LEGUME
+48,chana,Legume,LEGUME
+48,masoor,Legume,LEGUME
+48,arhar,Legume,LEGUME
+48,rajma,Legume,LEGUME
+48,dal_makhani,Legume,LEGUME
+49,curry_paste,Spice,SPICE
+49,curry_powder,Spice,SPICE
+49,masala,Spice,SPICE
+49,garam_masala,Spice,SPICE
+49,tandoori,Spice,SPICE
+49,ras_el_hanout,Spice,SPICE
+49,berbere,Spice,SPICE
+49,dukkah,Spice,SPICE
+49,za_atar,Spice,SPICE
+49,zaatar,Spice,SPICE
+49,herbes_de_provence,Spice,SPICE
+49,italian_seasoning,Spice,SPICE
+49,old_bay,Spice,SPICE
+49,cajun,Spice,SPICE
+49,creole,Spice,SPICE
+49,adobo,Spice,SPICE
+49,sazon,Spice,SPICE
+49,panch_phoron,Spice,SPICE
+49,quatre_epices,Spice,SPICE
+49,sansho,Spice,SPICE
+49,poultry_seasoning,Spice,SPICE
+49,taco_seasoning,Spice,SPICE
+49,seafood_seasoning,Spice,SPICE
+49,asian_seasoning,Spice,SPICE
+49,seasoning_blend,Spice,SPICE
+49,spice_blend,Spice,SPICE
+49,pizza_seasoning,Spice,SPICE
+49,pickling_spice,Spice,SPICE
+49,mixed_spice,Spice,SPICE
+49,sambhar,Spice,SPICE
+49,shichimi,Spice,SPICE
+49,furikake,Spice,SPICE
+50,achiote,Spice,SPICE
+50,annatto,Spice,SPICE
+50,asafoetida,Spice,SPICE
+50,amchur,Spice,SPICE
+50,amchoor,Spice,SPICE
+50,ajwain,Spice,SPICE
+50,ajwan,Spice,SPICE
+50,carom,Spice,SPICE
+50,kalonji,Spice,SPICE
+50,nigella,Spice,SPICE
+50,sumaq,Spice,SPICE
+50,sumac,Spice,SPICE
+50,sansho,Spice,SPICE
+50,piment,Spice,SPICE
+50,piri_piri,Spice,SPICE
+50,harissa,Spice,SPICE
+50,chipotle,Spice,SPICE
+50,ancho,Spice,SPICE
+50,pasilla,Spice,SPICE
+50,arbol,Spice,SPICE
+50,anaheim,Spice,SPICE
+50,fresno,Spice,SPICE
+50,serrano,Spice,SPICE
+50,aleppo,Spice,SPICE
+51,soy_sauce,Condiment,CONDIMENT
+51,tamari,Condiment,CONDIMENT
+51,shoyu,Condiment,CONDIMENT
+51,hoisin,Condiment,CONDIMENT
+51,oyster_sauce,Condiment,CONDIMENT
+51,fish_sauce,Condiment,CONDIMENT
+51,nam_pla,Condiment,CONDIMENT
+51,nuoc,Condiment,CONDIMENT
+51,patis,Condiment,CONDIMENT
+51,ponzu,Condiment,CONDIMENT
+51,tonkatsu,Condiment,CONDIMENT
+51,okonomiyaki,Condiment,CONDIMENT
+51,teriyaki,Condiment,CONDIMENT
+51,mirin,Condiment,CONDIMENT
+51,gochujang,Condiment,CONDIMENT
+51,sambal,Condiment,CONDIMENT
+51,sriracha,Condiment,CONDIMENT
+51,chili_oil,Condiment,CONDIMENT
+51,black_bean_sauce,Condiment,CONDIMENT
+51,satay_sauce,Condiment,CONDIMENT
+51,sweet_chili,Condiment,CONDIMENT
+51,tom_yum,Condiment,CONDIMENT
+51,szechuan,Condiment,CONDIMENT
+51,stir_fry_sauce,Condiment,CONDIMENT
+51,ajinomoto,Condiment,CONDIMENT
+51,msg,Condiment,CONDIMENT
+52,ranch,Condiment,CONDIMENT
+52,caesar,Condiment,CONDIMENT
+52,italian_dressing,Condiment,CONDIMENT
+52,vinaigrette,Condiment,CONDIMENT
+52,thousand_island,Condiment,CONDIMENT
+52,russian_dressing,Condiment,CONDIMENT
+52,western_dressing,Condiment,CONDIMENT
+52,remoulade,Condiment,CONDIMENT
+52,tartar_sauce,Condiment,CONDIMENT
+52,aioli,Condiment,CONDIMENT
+52,hollandaise,Condiment,CONDIMENT
+52,bearnaise,Condiment,CONDIMENT
+52,bechamel,Condiment,CONDIMENT
+52,roux,Condiment,CONDIMENT
+52,bbq_sauce,Condiment,CONDIMENT
+52,barbecue_sauce,Condiment,CONDIMENT
+52,buffalo_sauce,Condiment,CONDIMENT
+52,hot_sauce,Condiment,CONDIMENT
+52,enchilada_sauce,Condiment,CONDIMENT
+52,taco_sauce,Condiment,CONDIMENT
+52,picante_sauce,Condiment,CONDIMENT
+52,pico_de_gallo,Condiment,CONDIMENT
+52,sofrito,Condiment,CONDIMENT
+52,romesco,Condiment,CONDIMENT
+52,tapenade,Condiment,CONDIMENT
+52,tzatziki,Condiment,CONDIMENT
+52,sloppy_joe,Condiment,CONDIMENT
+52,pizza_sauce,Condiment,CONDIMENT
+52,passata,Condiment,CONDIMENT
+52,meat_sauce,Condiment,CONDIMENT
+52,alfredo,Condiment,CONDIMENT
+53,pickle,Acid/Sour,ACID
+53,pickled,Acid/Sour,ACID
+53,sauerkraut,Acid/Sour,ACID
+53,kimchi,Acid/Sour,ACID
+53,brine,Acid/Sour,ACID
+53,caper,Acid/Sour,ACID
+53,olive,Acid/Sour,ACID
+53,gherkin,Acid/Sour,ACID
+53,cornichon,Acid/Sour,ACID
+53,preserved_lemon,Acid/Sour,ACID
+53,umeboshi,Acid/Sour,ACID
+53,verjuice,Acid/Sour,ACID
+54,stock,Condiment,CONDIMENT
+54,broth,Condiment,CONDIMENT
+54,bouillon,Condiment,CONDIMENT
+54,dashi,Condiment,CONDIMENT
+54,consomme,Condiment,CONDIMENT
+54,jus,Condiment,CONDIMENT
+54,dripping,Condiment,CONDIMENT
+54,pan_juice,Condiment,CONDIMENT
+54,fond,Condiment,CONDIMENT
+55,soy_protein,Plant Protein,PLANT_PROTEIN
+55,textured_vegetable_protein,Plant Protein,PLANT_PROTEIN
+55,tvp,Plant Protein,PLANT_PROTEIN
+55,tempeh,Plant Protein,PLANT_PROTEIN
+55,seitan,Plant Protein,PLANT_PROTEIN
+55,jackfruit,Plant Protein,PLANT_PROTEIN
+55,mycoprotein,Plant Protein,PLANT_PROTEIN
+55,quorn,Plant Protein,PLANT_PROTEIN
+55,vegan_burger,Plant Protein,PLANT_PROTEIN
+55,veggie_burger,Plant Protein,PLANT_PROTEIN
+55,veggie_crumbles,Plant Protein,PLANT_PROTEIN
+55,soy_crumbles,Plant Protein,PLANT_PROTEIN
+55,nutritional_yeast,Plant Protein,PLANT_PROTEIN
+55,okara,Plant Protein,PLANT_PROTEIN
+56,xylitol,Sweetener,SWEETENER
+56,sorbitol,Sweetener,SWEETENER
+56,erythritol,Sweetener,SWEETENER
+56,splenda,Sweetener,SWEETENER
+56,truvia,Sweetener,SWEETENER
+56,stevia,Sweetener,SWEETENER
+56,sweet_n_low,Sweetener,SWEETENER
+56,aspartame,Sweetener,SWEETENER
+56,saccharin,Sweetener,SWEETENER
+56,piloncillo,Sweetener,SWEETENER
+56,sucanat,Sweetener,SWEETENER
+56,jaggery,Sweetener,SWEETENER
+56,palm_sugar,Sweetener,SWEETENER
+56,date_syrup,Sweetener,SWEETENER
+56,golden_syrup,Sweetener,SWEETENER
+56,corn_syrup,Sweetener,SWEETENER
+56,icing_sugar,Sweetener,SWEETENER
+56,powdered_sugar,Sweetener,SWEETENER
+56,caster_sugar,Sweetener,SWEETENER
+56,sultana,Sweetener,SWEETENER
+56,raisin,Sweetener,SWEETENER
+57,taro,Root Vegetable,ROOT_VEG
+57,cassava,Root Vegetable,ROOT_VEG
+57,yucca,Root Vegetable,ROOT_VEG
+57,plantain,Root Vegetable,ROOT_VEG
+57,salsify,Root Vegetable,ROOT_VEG
+57,jicama,Root Vegetable,ROOT_VEG
+57,lotus_root,Root Vegetable,ROOT_VEG
+57,arrowroot,Root Vegetable,ROOT_VEG
+57,water_chestnut,Root Vegetable,ROOT_VEG
+57,yamaimo,Root Vegetable,ROOT_VEG
+57,yam,Root Vegetable,ROOT_VEG
+58,rocket,Leafy Green,LEAFY_GREEN
+58,arugula,Leafy Green,LEAFY_GREEN
+58,pak_choi,Leafy Green,LEAFY_GREEN
+58,bok_choy,Leafy Green,LEAFY_GREEN
+58,tatsoi,Leafy Green,LEAFY_GREEN
+58,shiso,Leafy Green,LEAFY_GREEN
+58,pandan,Leafy Green,LEAFY_GREEN
+58,nopales,Leafy Green,LEAFY_GREEN
+58,romaine,Leafy Green,LEAFY_GREEN
+58,spring_green,Leafy Green,LEAFY_GREEN
+58,salad_green,Leafy Green,LEAFY_GREEN
+58,salad_leaf,Leafy Green,LEAFY_GREEN
+59,tomatillo,Fruiting Veg,FRUITING_VEG
+59,plantain,Fruiting Veg,FRUITING_VEG
+59,chayote,Fruiting Veg,FRUITING_VEG
+59,bitter_melon,Fruiting Veg,FRUITING_VEG
+59,drumstick,Fruiting Veg,FRUITING_VEG
+59,moringa,Fruiting Veg,FRUITING_VEG
+60,pomelo,Fruit,FRUIT
+60,jackfruit,Fruit,FRUIT
+60,longan,Fruit,FRUIT
+60,rambutan,Fruit,FRUIT
+60,durian,Fruit,FRUIT
+60,tamarillo,Fruit,FRUIT
+60,carambola,Fruit,FRUIT
+60,starfruit,Fruit,FRUIT
+60,feijoa,Fruit,FRUIT
+60,pluot,Fruit,FRUIT
+60,ugli_fruit,Fruit,FRUIT
+61,espresso,Coffee/Tea,COFFEE_TEA
+61,americano,Coffee/Tea,COFFEE_TEA
+61,latte,Coffee/Tea,COFFEE_TEA
+61,cappuccino,Coffee/Tea,COFFEE_TEA
+61,ovaltine,Coffee/Tea,COFFEE_TEA
+61,chicory,Coffee/Tea,COFFEE_TEA
+61,yerba,Coffee/Tea,COFFEE_TEA
+61,rooibos,Coffee/Tea,COFFEE_TEA
+61,malt,Coffee/Tea,COFFEE_TEA
+61,horlicks,Coffee/Tea,COFFEE_TEA
+62,oatmeal,Whole Grain,WHOLE_GRAIN
+62,oat,Whole Grain,WHOLE_GRAIN
+62,muesli,Whole Grain,WHOLE_GRAIN
+62,granola,Whole Grain,WHOLE_GRAIN
+62,cornflakes,Whole Grain,WHOLE_GRAIN
+62,bran_flakes,Whole Grain,WHOLE_GRAIN
+62,shreddies,Whole Grain,WHOLE_GRAIN
+62,special_k,Whole Grain,WHOLE_GRAIN
+62,grits,Whole Grain,WHOLE_GRAIN
+62,polenta,Whole Grain,WHOLE_GRAIN
+62,hominy,Whole Grain,WHOLE_GRAIN
+62,posole,Whole Grain,WHOLE_GRAIN
+62,wheatberries,Whole Grain,WHOLE_GRAIN
+62,rye_flake,Whole Grain,WHOLE_GRAIN
+62,sago,Whole Grain,WHOLE_GRAIN
+62,psyllium,Whole Grain,WHOLE_GRAIN
+63,yeast,Starch/Flour,STARCH_FLOUR
+63,baking_powder,Starch/Flour,STARCH_FLOUR
+63,baking_soda,Starch/Flour,STARCH_FLOUR
+63,cream_of_tartar,Starch/Flour,STARCH_FLOUR
+63,rennet,Starch/Flour,STARCH_FLOUR
+63,pectin,Starch/Flour,STARCH_FLOUR
+63,gelatin,Starch/Flour,STARCH_FLOUR
+63,agar,Starch/Flour,STARCH_FLOUR
+63,xanthan_gum,Starch/Flour,STARCH_FLOUR
+63,vital_wheat_gluten,Starch/Flour,STARCH_FLOUR
+63,sodium_bicarbonate,Starch/Flour,STARCH_FLOUR
+64,pignolis,Tree Nut,TREE_NUT
+64,pepitas,Tree Nut,TREE_NUT
+64,nutmeats,Tree Nut,TREE_NUT
+64,mixed_nuts,Tree Nut,TREE_NUT
+64,praline_paste,Tree Nut,TREE_NUT
+64,tahini,Tree Nut,TREE_NUT
+64,almond_paste,Tree Nut,TREE_NUT
+64,marzipan,Tree Nut,TREE_NUT
+64,nutella,Tree Nut,TREE_NUT
+65,lemonade,Beverage,BEVERAGE
+65,cola,Beverage,BEVERAGE
+65,soda,Beverage,BEVERAGE
+65,juice,Beverage,BEVERAGE
+65,smoothie,Beverage,BEVERAGE
+65,energy_drink,Beverage,BEVERAGE
+65,sports_drink,Beverage,BEVERAGE
+65,kombucha,Beverage,BEVERAGE
+65,horchata,Beverage,BEVERAGE
+65,lassi,Beverage,BEVERAGE
+65,coconut_water,Beverage,BEVERAGE
+65,v8,Beverage,BEVERAGE
+65,kool_aid,Beverage,BEVERAGE
+65,gatorade,Beverage,BEVERAGE
+65,red_bull,Beverage,BEVERAGE
+65,sprite,Beverage,BEVERAGE
+65,pepsi,Beverage,BEVERAGE
+65,7_up,Beverage,BEVERAGE
+65,mountain_dew,Beverage,BEVERAGE
+66,miso,Plant Protein,PLANT_PROTEIN
+66,natto,Plant Protein,PLANT_PROTEIN
+66,edamame,Plant Protein,PLANT_PROTEIN
+66,soy_sauce,Plant Protein,PLANT_PROTEIN
+66,soymilk,Plant Protein,PLANT_PROTEIN
+66,soy_flour,Plant Protein,PLANT_PROTEIN
+66,soy_protein,Plant Protein,PLANT_PROTEIN
+67,smoked_salmon,Seafood,SEAFOOD
+67,lox,Seafood,SEAFOOD
+67,gravlax,Seafood,SEAFOOD
+67,smoked_mackerel,Seafood,SEAFOOD
+67,smoked_trout,Seafood,SEAFOOD
+67,smoked_whitefish,Seafood,SEAFOOD
+67,smoked_herring,Seafood,SEAFOOD
+67,kipper,Seafood,SEAFOOD
+67,finnan_haddie,Seafood,SEAFOOD
+68,candy,Bakery/Dessert/Snack,BAKERY
+68,sweets,Bakery/Dessert/Snack,BAKERY
+68,gummy,Bakery/Dessert/Snack,BAKERY
+68,licorice,Bakery/Dessert/Snack,BAKERY
+68,toffee,Bakery/Dessert/Snack,BAKERY
+68,fudge,Bakery/Dessert/Snack,BAKERY
+68,nougat,Bakery/Dessert/Snack,BAKERY
+68,mints,Bakery/Dessert/Snack,BAKERY
+68,peppermint_candy,Bakery/Dessert/Snack,BAKERY
+68,jelly_bean,Bakery/Dessert/Snack,BAKERY
+68,hard_candy,Bakery/Dessert/Snack,BAKERY
+68,lollipop,Bakery/Dessert/Snack,BAKERY
+69,sauce,Condiment,CONDIMENT
+69,paste,Condiment,CONDIMENT
+69,gravy,Condiment,CONDIMENT
+69,dip,Condiment,CONDIMENT
+69,spread,Condiment,CONDIMENT
+69,relish,Condiment,CONDIMENT
+69,coulis,Condiment,CONDIMENT
+69,compote,Condiment,CONDIMENT
+69,jam,Condiment,CONDIMENT
+69,jelly,Condiment,CONDIMENT
+69,preserve,Condiment,CONDIMENT
+70,lavender,Flower,HERB
+70,chamomile,Flower,HERB
+70,rose,Flower,HERB
+70,violet,Flower,HERB
+70,hibiscus,Flower,HERB
+70,elderflower,Flower,HERB
+70,borage,Flower,HERB
+70,nasturtium,Flower,HERB
+70,calendula,Flower,HERB
+70,marigold,Flower,HERB
+70,dandelion,Flower,HERB
+70,jasmine,Flower,HERB
+70,saffron_flower,Flower,HERB
+71,lemongrass,Herb,HERB
+71,culantro,Herb,HERB
+71,epazote,Herb,HERB
+71,shiso,Herb,HERB
+71,pandan,Herb,HERB
+71,methi,Herb,HERB
+71,kasuri_methi,Herb,HERB
+71,curry_leaf,Herb,HERB
+71,kaffir,Herb,HERB
+71,mitsuba,Herb,HERB
+71,mizuna,Herb,HERB
+71,fenugreek_leaf,Herb,HERB
+71,gremolata,Herb,HERB
+71,bouquet_garni,Herb,HERB
+71,fines_herbes,Herb,HERB
+71,herbes_de_provence,Herb,HERB
+72,chile,Spice,SPICE
+72,chiles,Spice,SPICE
+72,chili,Spice,SPICE
+72,chilies,Spice,SPICE
+72,chipotle,Spice,SPICE
+72,ancho,Spice,SPICE
+72,pasilla,Spice,SPICE
+72,guajillo,Spice,SPICE
+72,arbol,Spice,SPICE
+72,habanero,Spice,SPICE
+72,serrano,Spice,SPICE
+72,jalapeno,Spice,SPICE
+72,anaheim,Spice,SPICE
+72,fresno,Spice,SPICE
+72,bird_chile,Spice,SPICE
+72,thai_chile,Spice,SPICE
+72,hatch_chile,Spice,SPICE
+72,piri_piri,Spice,SPICE
+72,peri_peri,Spice,SPICE
+72,piment,Spice,SPICE
+72,aleppo,Spice,SPICE
+72,cascabel,Spice,SPICE
+72,mulato,Spice,SPICE
+72,ghost_pepper,Spice,SPICE
+72,scotch_bonnet,Spice,SPICE
+73,garam,Spice,SPICE
+73,masala,Spice,SPICE
+73,dhaniya,Spice,SPICE
+73,jeera,Spice,SPICE
+73,sambhar,Spice,SPICE
+73,file_powder,Spice,SPICE
+73,grains_of_paradise,Spice,SPICE
+73,sumac,Spice,SPICE
+73,za_atar,Spice,SPICE
+73,berbere,Spice,SPICE
+73,dukkah,Spice,SPICE
+73,ras_el_hanout,Spice,SPICE
+73,hawaij,Spice,SPICE
+73,jerk,Spice,SPICE
+73,blackening,Spice,SPICE
+73,creole,Spice,SPICE
+73,cajun,Spice,SPICE
+73,italian_spice,Spice,SPICE
+73,mixed_spice,Spice,SPICE
+73,dry_rub,Spice,SPICE
+73,spike_seasoning,Spice,SPICE
+73,old_bay,Spice,SPICE
+73,beau_monde,Spice,SPICE
+73,emeril,Spice,SPICE
+73,tony_chachere,Spice,SPICE
+73,seasoning,Spice,SPICE
+74,fontina,Cheese,CHEESE
+74,talleggio,Cheese,CHEESE
+74,caciocavallo,Cheese,CHEESE
+74,kefalotiri,Cheese,CHEESE
+74,grana_padano,Cheese,CHEESE
+74,bocconcini,Cheese,CHEESE
+74,montrachet,Cheese,CHEESE
+74,colby,Cheese,CHEESE
+74,cheez_whiz,Cheese,CHEESE
+74,crema,Cheese,CHEESE
+74,mexican_crema,Cheese,CHEESE
+75,eel,Seafood,SEAFOOD
+75,crawfish,Seafood,SEAFOOD
+75,crabmeat,Seafood,SEAFOOD
+75,crab_meat,Seafood,SEAFOOD
+75,dungeness,Seafood,SEAFOOD
+75,hake,Seafood,SEAFOOD
+75,kingfish,Seafood,SEAFOOD
+75,shad,Seafood,SEAFOOD
+75,butterfish,Seafood,SEAFOOD
+75,calamari,Seafood,SEAFOOD
+75,baby_calamari,Seafood,SEAFOOD
+75,escargot,Seafood,SEAFOOD
+75,frog,Seafood,SEAFOOD
+75,kamaboko,Seafood,SEAFOOD
+75,clams_in_shell,Seafood,SEAFOOD
+75,cockle,Seafood,SEAFOOD
+75,bonito,Seafood,SEAFOOD
+75,katsuobushi,Seafood,SEAFOOD
+76,duckling,Meat,MEAT
+76,broiler,Meat,MEAT
+76,capon,Meat,MEAT
+76,dove,Meat,MEAT
+76,foie_gras,Meat,MEAT
+76,liverwurst,Meat,MEAT
+76,knockwurst,Meat,MEAT
+76,bresaola,Meat,MEAT
+76,cocktail_frank,Meat,MEAT
+76,frank,Meat,MEAT
+76,ground_elk,Meat,MEAT
+76,boston_butt,Meat,MEAT
+76,filet_mignon,Meat,MEAT
+76,fillet,Meat,MEAT
+76,tenderloin,Meat,MEAT
+76,poultry,Meat,MEAT
+77,aubergine,Leafy Green,LEAFY_GREEN
+77,courgette,Leafy Green,LEAFY_GREEN
+77,rocket,Leafy Green,LEAFY_GREEN
+77,coriander,Leafy Green,LEAFY_GREEN
+77,spring_onion,Leafy Green,LEAFY_GREEN
+77,mange_tout,Leafy Green,LEAFY_GREEN
+77,marrow,Leafy Green,LEAFY_GREEN
+77,swede,Leafy Green,LEAFY_GREEN
+77,pak_choi,Leafy Green,LEAFY_GREEN
+77,choy_sum,Leafy Green,LEAFY_GREEN
+77,gai_lan,Leafy Green,LEAFY_GREEN
+77,broccolini,Leafy Green,LEAFY_GREEN
+77,cavolo_nero,Leafy Green,LEAFY_GREEN
+77,escarole,Leafy Green,LEAFY_GREEN
+77,frisee,Leafy Green,LEAFY_GREEN
+77,dandelion_green,Leafy Green,LEAFY_GREEN
+77,field_green,Leafy Green,LEAFY_GREEN
+77,mesclun,Leafy Green,LEAFY_GREEN
+77,mizuna,Leafy Green,LEAFY_GREEN
+77,mache,Leafy Green,LEAFY_GREEN
+77,tatsoi,Leafy Green,LEAFY_GREEN
+77,fiddlehead,Leafy Green,LEAFY_GREEN
+77,hearts_of_palm,Leafy Green,LEAFY_GREEN
+77,nopales,Leafy Green,LEAFY_GREEN
+77,brinjal,Leafy Green,LEAFY_GREEN
+77,cactus,Leafy Green,LEAFY_GREEN
+77,gourd,Leafy Green,LEAFY_GREEN
+77,leafy_green,Leafy Green,LEAFY_GREEN
+78,applesauce,Fruit,FRUIT
+78,fruit_cocktail,Fruit,FRUIT
+78,cranberry_sauce,Fruit,FRUIT
+78,candied_fruit,Fruit,FRUIT
+78,candied_peel,Fruit,FRUIT
+78,candied_citron,Fruit,FRUIT
+78,dried_fruit,Fruit,FRUIT
+78,mixed_fruit,Fruit,FRUIT
+78,fruit_filling,Fruit,FRUIT
+78,frozen_fruit,Fruit,FRUIT
+78,canned_fruit,Fruit,FRUIT
+78,fruit_puree,Fruit,FRUIT
+78,cantaloupe,Fruit,FRUIT
+78,honeydew,Fruit,FRUIT
+78,huckleberry,Fruit,FRUIT
+78,crabapple,Fruit,FRUIT
+78,barberry,Fruit,FRUIT
+78,pluot,Fruit,FRUIT
+78,citron,Fruit,FRUIT
+78,pomelo,Fruit,FRUIT
+78,craisins,Fruit,FRUIT
+78,glace,Fruit,FRUIT
+79,kirsch,Alcohol,ALCOHOL
+79,kirschwasser,Alcohol,ALCOHOL
+79,drambuie,Alcohol,ALCOHOL
+79,galliano,Alcohol,ALCOHOL
+79,grand_marnier,Alcohol,ALCOHOL
+79,benedictine,Alcohol,ALCOHOL
+79,herbsaint,Alcohol,ALCOHOL
+79,framboise,Alcohol,ALCOHOL
+79,eau_de_vie,Alcohol,ALCOHOL
+79,creme_de,Alcohol,ALCOHOL
+79,chablis,Alcohol,ALCOHOL
+79,marsala,Alcohol,ALCOHOL
+79,dry_marsala,Alcohol,ALCOHOL
+79,merlot,Alcohol,ALCOHOL
+79,cachaca,Alcohol,ALCOHOL
+79,licor_43,Alcohol,ALCOHOL
+79,lillet,Alcohol,ALCOHOL
+79,goldschlager,Alcohol,ALCOHOL
+79,everclear,Alcohol,ALCOHOL
+79,grain_alcohol,Alcohol,ALCOHOL
+79,rom,Alcohol,ALCOHOL
+80,ladyfinger,Bakery/Dessert/Snack,BAKERY
+80,gingerbread,Bakery/Dessert/Snack,BAKERY
+80,gingersnap,Bakery/Dessert/Snack,BAKERY
+80,macaroon,Bakery/Dessert/Snack,BAKERY
+80,crepe,Bakery/Dessert/Snack,BAKERY
+80,cannoli,Bakery/Dessert/Snack,BAKERY
+80,cannelloni,Bakery/Dessert/Snack,BAKERY
+80,ditalini,Bakery/Dessert/Snack,BAKERY
+80,capellini,Bakery/Dessert/Snack,BAKERY
+80,radiatore,Bakery/Dessert/Snack,BAKERY
+80,cavatelli,Bakery/Dessert/Snack,BAKERY
+80,manicotti,Bakery/Dessert/Snack,BAKERY
+80,orecchiette,Bakery/Dessert/Snack,BAKERY
+80,perciatelli,Bakery/Dessert/Snack,BAKERY
+80,breadstick,Bakery/Dessert/Snack,BAKERY
+80,crumpet,Bakery/Dessert/Snack,BAKERY
+80,challah,Bakery/Dessert/Snack,BAKERY
+80,patty_shell,Bakery/Dessert/Snack,BAKERY
+80,pappadams,Bakery/Dessert/Snack,BAKERY
+80,taco_shell,Bakery/Dessert/Snack,BAKERY
+80,wonton,Bakery/Dessert/Snack,BAKERY
+80,gyoza,Bakery/Dessert/Snack,BAKERY
+80,springroll,Bakery/Dessert/Snack,BAKERY
+80,lumpia,Bakery/Dessert/Snack,BAKERY
+80,sev,Bakery/Dessert/Snack,BAKERY
+81,hash_brown,Root Vegetable,ROOT_VEG
+81,tater_tot,Root Vegetable,ROOT_VEG
+81,french_fry,Root Vegetable,ROOT_VEG
+81,potato_patty,Root Vegetable,ROOT_VEG
+81,southern_hash_brown,Root Vegetable,ROOT_VEG
+82,cool_whip,Bakery/Dessert/Snack,BAKERY
+82,whipped_topping,Bakery/Dessert/Snack,BAKERY
+82,dream_whip,Bakery/Dessert/Snack,BAKERY
+82,dessert_topping,Bakery/Dessert/Snack,BAKERY
+82,non_dairy_topping,Bakery/Dessert/Snack,BAKERY
+82,frozen_non_dairy_topping,Bakery/Dessert/Snack,BAKERY
+83,stuffing,Bread,BREAD
+83,stove_top,Bread,BREAD
+83,pepperidge_farm_stuffing,Bread,BREAD
+84,bisquick,Starch/Flour,STARCH_FLOUR
+84,baking_mix,Starch/Flour,STARCH_FLOUR
+84,jiffy,Starch/Flour,STARCH_FLOUR
+84,atkins_baking_mix,Starch/Flour,STARCH_FLOUR
+84,gluten_free_baking_mix,Starch/Flour,STARCH_FLOUR
+84,reduced_fat_baking_mix,Starch/Flour,STARCH_FLOUR
+85,masa,Starch/Flour,STARCH_FLOUR
+85,cornflour,Starch/Flour,STARCH_FLOUR
+85,besan,Starch/Flour,STARCH_FLOUR
+85,gram_flour,Starch/Flour,STARCH_FLOUR
+85,chickpea_flour,Starch/Flour,STARCH_FLOUR
+85,rye_meal,Starch/Flour,STARCH_FLOUR
+85,farina,Starch/Flour,STARCH_FLOUR
+86,cannellini,Legume,LEGUME
+86,black_gram,Legume,LEGUME
+86,green_gram,Legume,LEGUME
+86,horse_gram,Legume,LEGUME
+87,grenadine,Sweetener,SWEETENER
+87,coco_lopez,Sweetener,SWEETENER
+87,mole,Sweetener,SWEETENER
+87,marmalade,Sweetener,SWEETENER
+87,applesauce,Sweetener,SWEETENER
+87,rice_syrup,Sweetener,SWEETENER
+87,white_karo,Sweetener,SWEETENER
+88,marinade,Condiment,CONDIMENT
+88,mole,Condiment,CONDIMENT
+88,sofrito,Condiment,CONDIMENT
+88,recado,Condiment,CONDIMENT
+88,giardiniera,Condiment,CONDIMENT
+88,caponata,Condiment,CONDIMENT
+88,mirepoix,Condiment,CONDIMENT
+88,alcaparrado,Condiment,CONDIMENT
+88,pico_de_gallo,Condiment,CONDIMENT
+88,liquid_smoke,Condiment,CONDIMENT
+88,maggi,Condiment,CONDIMENT
+88,marmite,Condiment,CONDIMENT
+88,vegemite,Condiment,CONDIMENT
+88,braggs,Condiment,CONDIMENT
+88,kitchen_bouquet,Condiment,CONDIMENT
+88,dashida,Condiment,CONDIMENT
+88,demi_glace,Condiment,CONDIMENT
+88,glace_de_viande,Condiment,CONDIMENT
+88,roux,Condiment,CONDIMENT
+88,bisto,Condiment,CONDIMENT
+88,catsup,Condiment,CONDIMENT
+88,catalina,Condiment,CONDIMENT
+88,wishbone,Condiment,CONDIMENT
+88,miracle_whip,Condiment,CONDIMENT
+88,coleslaw_dressing,Condiment,CONDIMENT
+88,herb_salad_dressing,Condiment,CONDIMENT
+88,french_dressing,Condiment,CONDIMENT
+88,greek_dressing,Condiment,CONDIMENT
+89,pimento,Acid/Sour,ACID
+89,pimiento,Acid/Sour,ACID
+89,alcaparrado,Acid/Sour,ACID
+89,cornichons,Acid/Sour,ACID
+89,spanish_olives,Acid/Sour,ACID
+89,caperberries,Acid/Sour,ACID
+89,gherkin,Acid/Sour,ACID
+89,sweet_pickle,Acid/Sour,ACID
+89,sour_mix,Acid/Sour,ACID
+90,vegetable,Plant/Vegetable,PLANT_VEG
+90,veggie,Plant/Vegetable,PLANT_VEG
+90,veg,Plant/Vegetable,PLANT_VEG
+90,greens,Plant/Vegetable,PLANT_VEG
+90,green,Plant/Vegetable,PLANT_VEG
+90,herb,Plant/Vegetable,PLANT_VEG
+90,spice,Plant/Vegetable,PLANT_VEG
+90,seed,Plant/Vegetable,PLANT_VEG
+90,fruit,Plant/Vegetable,PLANT_VEG
+90,grain,Plant/Vegetable,PLANT_VEG
+90,cereal,Plant/Vegetable,PLANT_VEG
+90,seafood,Plant/Vegetable,PLANT_VEG
+90,condiment,Plant/Vegetable,PLANT_VEG
